@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA.Form1.resources
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\GPA02.exe
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\GPA02.deps.json
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\GPA02.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\GPA02.dll
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\ref\GPA02.dll
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\bin\Debug\net6.0-windows\GPA02.pdb
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.dll
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\ref\GPA02.dll
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.pdb
+C:\Users\Admin\Documents\GitHub\GPA02\GPA02\GPA02\obj\Debug\net6.0-windows\GPA02.genruntimeconfig.cache
